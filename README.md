@@ -1,4 +1,4 @@
-# networking_dns_foundation
+# Networking DNS Foundation
 
 Scripts voor het ophalen en analyseren van DNS-informatie, geschreven in Python en PowerShell.
 
