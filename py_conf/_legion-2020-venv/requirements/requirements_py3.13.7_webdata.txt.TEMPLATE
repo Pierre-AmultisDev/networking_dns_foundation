@@ -1,0 +1,29 @@
+# =============================================================================
+#
+# @package    <<PROJECT>>
+#             for <<CUSTOMER>> on local venv
+# 
+# @version    v0.0.2  2026-05-05
+# @author     pierre@amultis.dev
+# @copyright  (C) 2022-2025 Pierre Veelen
+#
+# @python     3.13.7
+#
+# =============================================================================
+
+# SEND HTTP REQUESTS
+# =======================================
+requests
+
+# WEB DATA
+# =======================================
+#urllib3==2.5.0
+#certifi
+
+# PARSEN VAN HTML- EN XML-DOCUMENTEN
+# =======================================
+#beautifulsoup4 
+
+# METHOD TO LAUNCH A BROWSER INSTANCE
+# =======================================
+#playwright

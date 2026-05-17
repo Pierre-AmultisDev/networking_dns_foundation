@@ -1,0 +1,40 @@
+# =============================================================================
+#
+# @package    aMultis deployment scripts
+# @container  local_venv functions
+# @name       .gitignore
+# @purpose    Set behavior for git
+# @version    v0.0.2  2026-05-17
+# @author     pierre@amultis.dev
+# @copyright  (C) Pierre Veelen
+#
+# =============================================================================
+
+# Default
+desktop.ini
+.DS_Store
+*.lnk
+
+# python
+.venv/
+__pycache__
+
+# IDE
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# DATASETS
+data/
+
+# DATA
+*.xlsx
+*.csv
+
+# EXPERIMENTS
+experiments/
+
+# HISTORY
+.history/
+_history/
+history/
